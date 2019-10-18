@@ -1,2 +1,4 @@
-# CSC-270-Work
-This is Boneyboi's demo repository
+# Nietzsche, *Beyond Good and Evil*
+
+Status: *in progress*
+
