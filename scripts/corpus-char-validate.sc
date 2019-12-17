@@ -5,7 +5,7 @@ import edu.holycross.shot.ohco2._
 import java.io._
 import scala.annotation.tailrec
 
-:load utilities.sc
+:load scripts/utilities.sc
 
 // Edit the following to load *your* text!
 val lib: CiteLibrary = loadLibrary("text/nietzsche_bge.cex")
