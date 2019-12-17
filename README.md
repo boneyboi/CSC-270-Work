@@ -15,7 +15,11 @@ The file: `text\nieztzche_bge.cex`
 
 This repository is a way to display *Beyond Good and Evil* in html as well as a way to validate the charachters for it. It can also be used to run any sort of script on the text.
 
-To do so:
+### Requirements
+-Java JDK 1.8+
+-SBT installed and on PATH
+
+### Running scripts
 -Download or clone the repository.
 -Go to the root folder for the repository.
 -Run `sbt console`.
