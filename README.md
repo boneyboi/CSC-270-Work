@@ -9,11 +9,11 @@ Fredrich Nietzsche is a German philosipher, composer, and poet born on October 1
 
 *Beyond Good and Evil* discusses multiple topics throught the work, including the relationships between opposite ideas, Nietzshe's views on the pursit of truth by the philosophical community, as well as other various topics he discusses through poems.
 
-The file: `text\nieztzche_bge.cex`
+The file: `text/nieztzche_bge.cex`
 
 ## Desription of Repo and how to use it's contents
 
-This repository is a way to display *Beyond Good and Evil* in html as well as a way to validate the charachters for it. It can also be used to run any sort of script on the text.
+This repository is a way to display *Beyond Good and Evil* in html as well as a way to validate the characters for it. It can also be used to run any sort of script on the text.
 
 ### Requirements
 -Java JDK 1.8+
@@ -25,3 +25,10 @@ This repository is a way to display *Beyond Good and Evil* in html as well as a 
 - Run `sbt console`.
 - Run a script `scala> :load yourfolder/yourscript.sc`.
 
+## Character Validation
+This is a table with the characters that have been validated by `scripts/corpus-char-validate.sc`, meaning each character in the text is unique and means something else from everyother character.
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text 
