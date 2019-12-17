@@ -103,8 +103,8 @@ This is a table with the characters that have been validated by `scripts/corpus-
 | J | HEX | 44 | 
 | Q | HEX | 28 | 
 | X | HEX | 21 | 
-| [ | HEX | 9 | 
-| ] | HEX | 9 | 
+| Open Square Bracket | HEX | 9 | 
+| Closed Square Bracket | HEX | 9 | 
 | Z | HEX | 7 | 
 | _ | HEX | 4 | 
 | ﻿ | feff | 1 |
