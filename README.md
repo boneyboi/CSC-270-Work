@@ -20,8 +20,8 @@ This repository is a way to display *Beyond Good and Evil* in html as well as a 
 -SBT installed and on PATH
 
 ### Running scripts
--Download or clone the repository.
--Go to the root folder for the repository.
--Run `sbt console`.
--Run a script `scala> :load yourfolder/yourscript.sc`.
+- Download or clone the repository.
+- Go to the root folder for the repository.
+- Run `sbt console`.
+- Run a script `scala> :load yourfolder/yourscript.sc`.
 
